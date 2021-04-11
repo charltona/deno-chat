@@ -1,9 +1,9 @@
-#Deno Websockets Chatroom
+# Deno Websockets Chatroom <br/>
 Quick websockets example using Deno.<br/>
 
-# Requirements
+## Requirements
 * Deno
 
-# Usage
+## Usage
 `deno run --watch --allow-net --allow-read app.ts`
 :
